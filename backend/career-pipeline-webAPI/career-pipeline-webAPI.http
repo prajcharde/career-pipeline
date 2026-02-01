@@ -1,0 +1,6 @@
+@career_pipeline_webAPI_HostAddress = http://localhost:5059
+
+GET {{career_pipeline_webAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
