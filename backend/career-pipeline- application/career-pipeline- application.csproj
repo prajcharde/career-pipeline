@@ -13,4 +13,8 @@
     <Folder Include="Services\Interfaces\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\career-pipeline-domain\career-pipeline-domain.csproj" />
+  </ItemGroup>
+
 </Project>

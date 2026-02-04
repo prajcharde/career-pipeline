@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("career-pipeline-webAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3df0b4143d9dafbfe577fc91c1a9a7bb0f594d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ee5eda681e1ecfca5a8f0854992681f61c62e40")]
 [assembly: System.Reflection.AssemblyProductAttribute("career-pipeline-webAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("career-pipeline-webAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
