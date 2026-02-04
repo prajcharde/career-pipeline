@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("career-pipeline-domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16574ed46106b8de8d8e982d3280d8d0056a461e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3df0b4143d9dafbfe577fc91c1a9a7bb0f594d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("career-pipeline-domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("career-pipeline-domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
