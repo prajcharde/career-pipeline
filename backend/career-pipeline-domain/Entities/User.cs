@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace career_pipeline_domain.Entities
+﻿namespace career_pipeline_domain.Entities
 {
     public class User
     {

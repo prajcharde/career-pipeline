@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\career-pipeline- application\career-pipeline- application.csproj" />
+    <ProjectReference Include="..\career-pipeline-infrastructure\career-pipeline-infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

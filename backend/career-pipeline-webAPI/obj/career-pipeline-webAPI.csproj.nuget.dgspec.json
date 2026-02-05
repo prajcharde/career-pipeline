@@ -130,6 +130,96 @@
         }
       }
     },
+    "C:\\Users\\prajc\\Projects\\Dot Net Core Projects\\carrer-pipleine github\\career-pipeline\\backend\\career-pipeline-infrastructure\\career-pipeline-infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prajc\\Projects\\Dot Net Core Projects\\carrer-pipleine github\\career-pipeline\\backend\\career-pipeline-infrastructure\\career-pipeline-infrastructure.csproj",
+        "projectName": "career-pipeline-infrastructure",
+        "projectPath": "C:\\Users\\prajc\\Projects\\Dot Net Core Projects\\carrer-pipleine github\\career-pipeline\\backend\\career-pipeline-infrastructure\\career-pipeline-infrastructure.csproj",
+        "packagesPath": "C:\\Users\\prajc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prajc\\Projects\\Dot Net Core Projects\\carrer-pipleine github\\career-pipeline\\backend\\career-pipeline-infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prajc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\prajc\\Projects\\Dot Net Core Projects\\carrer-pipleine github\\career-pipeline\\backend\\career-pipeline- application\\career-pipeline- application.csproj": {
+                "projectPath": "C:\\Users\\prajc\\Projects\\Dot Net Core Projects\\carrer-pipleine github\\career-pipeline\\backend\\career-pipeline- application\\career-pipeline- application.csproj"
+              },
+              "C:\\Users\\prajc\\Projects\\Dot Net Core Projects\\carrer-pipleine github\\career-pipeline\\backend\\career-pipeline-domain\\career-pipeline-domain.csproj": {
+                "projectPath": "C:\\Users\\prajc\\Projects\\Dot Net Core Projects\\carrer-pipleine github\\career-pipeline\\backend\\career-pipeline-domain\\career-pipeline-domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\prajc\\Projects\\Dot Net Core Projects\\carrer-pipleine github\\career-pipeline\\backend\\career-pipeline-webAPI\\career-pipeline-webAPI.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -157,6 +247,9 @@
             "projectReferences": {
               "C:\\Users\\prajc\\Projects\\Dot Net Core Projects\\carrer-pipleine github\\career-pipeline\\backend\\career-pipeline- application\\career-pipeline- application.csproj": {
                 "projectPath": "C:\\Users\\prajc\\Projects\\Dot Net Core Projects\\carrer-pipleine github\\career-pipeline\\backend\\career-pipeline- application\\career-pipeline- application.csproj"
+              },
+              "C:\\Users\\prajc\\Projects\\Dot Net Core Projects\\carrer-pipleine github\\career-pipeline\\backend\\career-pipeline-infrastructure\\career-pipeline-infrastructure.csproj": {
+                "projectPath": "C:\\Users\\prajc\\Projects\\Dot Net Core Projects\\carrer-pipleine github\\career-pipeline\\backend\\career-pipeline-infrastructure\\career-pipeline-infrastructure.csproj"
               }
             }
           }
